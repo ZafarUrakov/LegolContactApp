@@ -1,0 +1,6 @@
+@LegolContactApp_HostAddress = http://localhost:5194
+
+GET {{LegolContactApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
